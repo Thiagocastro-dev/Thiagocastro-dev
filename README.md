@@ -6,22 +6,12 @@ sou aluno de mestrado do Programa de Pós-Graduação da Universidade Federal do
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thcasthi&show_icons=true)
 
-Tecnologias que eu utilizo no meu dia.
+### Tecnologias que eu utilizo no meu dia.
 <div style="display: inline_block"><br/>
-  <img align="center"  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br/>
-  <img align="center"  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br/>
-  <img align="center"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
-<div style="display: inline_block"><br/>
-  <img align="center"  alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br/>
-  <img align="center"  alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-<div style="display: inline_block"><br/>
+  <img align="center"  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center"  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center"  alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center"  alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center"  alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
