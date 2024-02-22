@@ -1,16 +1,27 @@
-### Hi there 👋
+### Prazer! Me chamo Thiago Castro 👋
+sou aluno de mestrado do Programa de Pós-Graduação da Universidade Federal do Pará (UFPA). Também possuo formação em Engenharia da Computação pela UFPA. 
 
-<!--
-**thcasthi/thcasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-castro-44347b210/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#drafts?compose=new)
 
-Here are some ideas to get you started:
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thcasthi&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que eu utilizo no meu dia.
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center"  alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</div>
