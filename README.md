@@ -1,5 +1,5 @@
 ### Prazer! Me chamo Thiago Castro 👋
-sou aluno de mestrado do Programa de Pós-Graduação da Universidade Federal do Pará (UFPA). Também possuo formação em Engenharia da Computação pela UFPA. 
+sou aluno de mestrado em Ciência da Computação do Programa de Pós-Graduação da Universidade Federal do Pará (UFPA). Também possuo formação em Engenharia da Computação pela UFPA. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-castro-44347b210/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#drafts?compose=new)
